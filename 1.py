@@ -1,0 +1,2 @@
+mening birinchi dasturim
+

@@ -1,0 +1,1 @@
+mening ikkinchi dasturim
