@@ -1,2 +1,2 @@
 mening birinchi dasturim
-
+ikkinchi qator
