@@ -3,27 +3,33 @@
     <head>
         <meta charset="UTF-8">
         <title>Table</title>
+        <style type="text/css">
+            td{
+                padding: 10px;
+            }
+        </style>
     </head>
     <body>
         <!-- table tagi jadval qilish uchun ham kerak buladi -->
         <!-- [border-chegara]degani uzbekchada -->
-        <table border="1">            
+        <table border="1" style="border-collapse: collapse">            
             <!-- [<thead>] bu tablening boshi yani head -->
             <thead>
                 <!-- <tr> bu tableni qatorini yasashda kerak boladi  -->
                 <tr>
                     <!-- <th> manosi Table Head -->
+                    <!-- [colspan=""] bu 1 qator tegiga nechta qator olish uchun     -->
                     <th colspan="2">1</th>
                     <th>2</th>
                     <th>3</th>
-                    <th>4</th>
                 </tr>
             </thead>
             <!-- [<tbody>] bu table ni tanasi -->
             <tbody>
                 <tr>
                     <!-- [tbody] tegida malumotlar  [th] bilan emas [td] tegi orqali chiqariladi -->
-                    <td>td1</td>
+                    <!-- rowspan atributi td qancha qator olishi   -->
+                    <td rowspan="2">td1</td>
                     <td>td2</td>
                     <td>td3</td>
                     <td>td4</td>
@@ -32,8 +38,7 @@
                 <tr>
                     <td>12</td>
                     <td>34</td>
-                    <td>56</td>
-                    <td>23</td>
+                    <td>56</td> 
                 </tr>
             </tbody>
         </table>
