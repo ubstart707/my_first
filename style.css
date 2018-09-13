@@ -10,9 +10,11 @@
     /* margin-right: 100px%; */
     /* margin-bottom: 100px; */
     /* marginni umumiy qilib yozish */ 
-    /* margin: 100px 100px 50px 100px; */
+
+    /* marginni tortaligi birinchi  top[tepa] keyin right keyin bottom keyin left ni oladi yani soat strelkasiga ohshab */
+    margin: 100px 100px 50px 100px;
     /* margin: 50px 100px 30px; */
     /* margin: 50px 30px; */
     /* margin bittali qilib yozilsa birdaniga barcha raflama ta'sir qiladi */
-    margin: 100px;
+    /* margin: 100px; */
 }
