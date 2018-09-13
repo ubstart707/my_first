@@ -1,0 +1,11 @@
+
+/* box ni htmlga  class atributi orqali olami */
+.box{
+    max-width: 160px;
+    min-height: 100px;
+    background: red;
+}
+/* html dagi id ni  bu yerga [#] belgisi orqali chaqirib olamiz  */
+#test{
+
+}
