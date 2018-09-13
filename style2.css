@@ -1,6 +1,9 @@
 .text{
     width: 100px;
     height: 100px;
-    /* borde divimizni stli  uni atrofidagi ramka */
-    border: 1px;
-}
+
+    
+    /* borde divimizni stli  uni atrofidagi ramkasi, chegarasi */
+
+    /* solid bu uzluksiz chiziq  */
+    border: 1px solid;
