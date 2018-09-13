@@ -17,10 +17,10 @@
 
     /* background: url(); orqali div foniga rasm qoyamiz */
     background:red;
-    background: url(1.jpg);
+    background: url(1.jpg) no-repeat;
 
     /* qoyilgan rasim bosh joydan yana qaytalanyapti  qaytarmaslik uchun background-repeat: no-repeat; ni ishlatamiz */
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     /* background:cover; */
-    background-position: right ;
+    /* background-position: right ; */
 }
