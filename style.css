@@ -18,6 +18,7 @@
     /* margin bittali qilib yozilsa birdaniga barcha raflama ta'sir qiladi */
     /* margin: 100px; */
 
-    margin divni tashqari tarafdan uzoqlashtirsa padding funksiyasi ichkari tarafdan siqadi yoki kengaytirani
+    /* margin divni tashqari tarafdan uzoqlashtirsa padding funksiyasi ichkari tarafdan siqadi yoki kengaytirani */
     padding: 100px;
+    padding ni ham margin kabi  bottom left top funksiyasi bor
 }
