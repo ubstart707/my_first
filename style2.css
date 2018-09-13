@@ -1,6 +1,6 @@
 .text{
-    width: 100%;
-    height: 100%;
+    width:100%;
+    height:100vh;
 
     
     /* borde divimizni stli  uni atrofidagi ramkasi, chegarasi */
@@ -17,6 +17,6 @@
 
     /* background: url(); orqali div foniga rasm qoyamiz */
     background:red;
-    background: url(/home/ulugbek/github/1.jpg);
+    background: url(3.jpg);
 
 }
