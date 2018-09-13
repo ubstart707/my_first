@@ -1,11 +1,7 @@
-
-/* box ni htmlga  class atributi orqali olami */
 .box{
-    max-width: 160px;
-    height: 100%;
-    background: red;
-}
-/* html dagi id ni  bu yerga [#] belgisi orqali chaqirib olamiz  */
-#test{
-
+    width: 100px;
+    height: 100px;
+    background:red;
+    /* margin-top: ; orqli blokimizni tepa tarafda uoqlashtirdik va tepada 100px joy boshadi */
+    margin-top: 100px;
 }
