@@ -12,9 +12,12 @@
     /* marginni umumiy qilib yozish */ 
 
     /* marginni tortaligi birinchi  top[tepa] keyin right keyin bottom keyin left ni oladi yani soat strelkasiga ohshab */
-    margin: 100px 100px 50px 100px;
+    /* margin: 100px 100px 50px 100px; */
     /* margin: 50px 100px 30px; */
     /* margin: 50px 30px; */
     /* margin bittali qilib yozilsa birdaniga barcha raflama ta'sir qiladi */
     /* margin: 100px; */
+
+    margin divni tashqari tarafdan uzoqlashtirsa padding funksiyasi ichkari tarafdan siqadi yoki kengaytirani
+    padding: 100px;
 }
