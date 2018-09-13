@@ -11,9 +11,11 @@
     /* border: 8px dotted red; */
 
     /* borderni qismlarga bulib yozsa ha buladi */
-    border-width: 10px;
+    /* border-width: 10px;
     border-style: dotted;
-    border-color: blue;
+    border-color: blue; */
 
+    /* background: url(); orqali div foniga rasm qoyamiz */
+    background: url(1.jpg)
 
 }
