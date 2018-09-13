@@ -2,8 +2,11 @@
     width: 100px;
     height: 100px;
     background:red;
-    /* margin-top: ; orqli blokimizni tepa tarafda uoqlashtirdik va tepada 100px joy boshadi */
-    margin-top: 100px;
+    /* margin-top: ; orqli blokimizni tepa tarafda uzoqlashtirdik va tepada 100px joy boshadi */
+    margin-top: 50%;
     /* margin-left: ; orqali chap tarafdan uzoqlashtirdik */
-    margin-left: 100px;
+    margin-left: 50%;
+    /* margin-right: ; margin-bottom: ; lar orqali ong PAS TOMONDA uzoqlashtirish"     */
+    margin-right: 50%;
+    margin-bottom: 50%;
 }
