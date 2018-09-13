@@ -2,7 +2,7 @@
 /* box ni htmlga  class atributi orqali olami */
 .box{
     max-width: 160px;
-    height: 100px;
+    height: 100%;
     background: red;
 }
 /* html dagi id ni  bu yerga [#] belgisi orqali chaqirib olamiz  */
