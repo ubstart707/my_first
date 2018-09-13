@@ -6,4 +6,5 @@
     /* borde divimizni stli  uni atrofidagi ramkasi, chegarasi */
 
     /* solid bu uzluksiz chiziq  */
-    border: 1px solid;
+    /* dashed bu uzlukli chiziq */
+    border: 1px dashed;
