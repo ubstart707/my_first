@@ -8,4 +8,12 @@
     /* solid bu uzluksiz chiziq  */
     /* dashed bu uzlukli chiziq */
     /* dotted bu nuqtali */
-    border: 1px dotted;
+    /* border: 8px dotted red; */
+
+    /* borderni qismlarga bulib yozsa ha buladi */
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;
+
+
+}
