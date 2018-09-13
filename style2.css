@@ -7,4 +7,5 @@
 
     /* solid bu uzluksiz chiziq  */
     /* dashed bu uzlukli chiziq */
-    border: 1px dashed;
+    /* dotted bu nuqtali */
+    border: 1px dotted;
